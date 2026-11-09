@@ -2,7 +2,7 @@
 
 > ✨ 科幻风新标签页导航页 | Sci-fi New Tab Page
 
-[中文](./README.md) | [English](./README.en.md)
+[中文](./README.md) | [English](./README-en.md)
 
 👉 [在线预览 / Live Demo](https://xxx)
 
