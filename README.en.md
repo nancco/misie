@@ -11,8 +11,9 @@ Misie is a single-file local HTML startpage. No backend, all data stored locally
 Built-in CN/Global profile switcher, multi-source wallpaper, favicon fetcher, weather particle effect, bookmark manager, import & export.
 
 ## 🚀 How to use
-1. Download `index.html`
-2. Open it directly in browser, set as your new tab
+1.choose
+-Download `index.html`
+-Open it directly in browser, set as your new tab
 3. Open '☀️' control panel to switch CN / Global source
 
 ## ✨ Features
@@ -24,6 +25,3 @@ Built-in CN/Global profile switcher, multi-source wallpaper, favicon fetcher, we
 - 💾 Import & export bookmark backup
 - 🎨 Dark / Light theme
 - 🤍 Donate links: Free Lunch for Children, UNICEF
-
-## 📄 License
-MIT
