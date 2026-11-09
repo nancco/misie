@@ -4,7 +4,7 @@
 
 [中文](./README.md) | [English](./README.en.md)
 
-👉 [Live Demo](https://xxx)
+👉 [Live Demo](https://nancco.github.io/misie/)
 
 ## 📖 Intro
 Misie is a single-file local HTML startpage. No backend, all data stored locally in your browser.
