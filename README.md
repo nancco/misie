@@ -2,9 +2,9 @@
 
 > ✨ 科幻风新标签页导航页 | Sci-fi New Tab Page
 
-[中文](./README.md) | [English](./README-en)
+[中文](./README.md) | [English](./README.en.md)
 
-👉 [在线预览 / Live Demo](https://xxx)
+👉 [在线预览 / Live Demo](https://nancco.github.io/misie/)
 
 ## 📖 介绍
 雾屿 Misie 是一个本地单文件HTML导航页，**无后端，数据全部存在浏览器本地**
@@ -27,3 +27,4 @@
 
 ## 📄 License
 MIT
+
