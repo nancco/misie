@@ -13,7 +13,7 @@ Built-in CN/Global profile switcher, multi-source wallpaper, favicon fetcher, we
 ## 🚀 How to use
 1. Download `index.html`
 2. Open it directly in browser, set as your new tab
-3. Open control panel to switch CN / Global source
+3. Open '☀️' control panel to switch CN / Global source
 
 ## ✨ Features
 - 🌐 CN / Global two sets of config, separate search engine & bookmarks
